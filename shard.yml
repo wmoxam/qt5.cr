@@ -9,6 +9,7 @@ crystal: 0.23.1
 
 dependencies:
   bindgen:
-    github: Papierkorb/bindgen
+    github: wmoxam/bindgen
+    branch: openbsd-makefile-fix
 
 license: MPL-2
